@@ -1,2 +1,2 @@
-# Nadeekaberg-nadeekaberglund.github.io
+# Nadeekaberglund.github.io
 My personal portfolio website
