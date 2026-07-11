@@ -54,3 +54,14 @@ p {
     margin-top: 20px;
     border-radius: 8px;
 }
+/* Profile Picture */
+
+img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 30px auto;
+    border: 4px solid #003366;
+}
