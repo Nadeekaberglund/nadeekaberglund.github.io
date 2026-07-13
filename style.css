@@ -170,7 +170,7 @@ nav a:hover {
 }
 
 .project-image {
-    width: 300px;
+    width: 180px;
     height: auto;
     border-radius: 10px;
     object-fit: cover;
