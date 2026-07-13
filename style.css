@@ -1,4 +1,4 @@
-/* General page style */
+ /* General page style */
 
 body {
     font-family: Arial, sans-serif;
@@ -173,5 +173,11 @@ nav a:hover {
     height: 260px;
     object-fit: cover;
     border-radius: 8px;
+    margin-bottom: 20px;
+}
+.project-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
     margin-bottom: 20px;
 }
