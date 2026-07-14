@@ -189,3 +189,9 @@ nav a:hover {
 .btn:hover {
     background-color: #00509e;
 }
+<p>
+    <strong>Phone:</strong>
+    <a href="tel:+46XXXXXXXXX">
+        +46 XX XXX XX XX
+    </a>
+</p>
